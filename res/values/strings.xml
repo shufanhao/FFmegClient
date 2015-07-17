@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FFmpegClient</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="url">URL:</string>
+    <string name="rtsp">rtsp://127.0.0.1:8554/live</string>
+    <string name="play">  Play  </string>
+    <string name="cancle">Cancle</string>
+</resources>
